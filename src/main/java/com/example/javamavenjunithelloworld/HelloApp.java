@@ -29,7 +29,7 @@ public class HelloApp {
             }
         }
 
-        Hello hi = new Hello();
+        // Hello hi = new Hello();
         try {
             hi.setTimes(times);
         } catch (IllegalArgumentException e) {
